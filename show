@@ -1,0 +1,74 @@
+[33mcommit 1b6ddab39d219730cbe4a52d89554599395a627e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: RomuloGoleniesky <goleniesky@hotmail.com>
+Date:   Sun Aug 14 08:01:39 2022 -0300
+
+    updates _08_22
+
+[1mdiff --git a/DIO_DigitalInovationOne b/DIO_DigitalInovationOne[m
+[1mindex 1a5af86..4dcb3ed 160000[m
+[1m--- a/DIO_DigitalInovationOne[m
+[1m+++ b/DIO_DigitalInovationOne[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit 1a5af86650e137a0cbb71ab5cd777600769877f7[m
+[32m+[m[32mSubproject commit 4dcb3ed811f282a5644f55caee5e748ef0c5cde5[m
+[1mdiff --git a/HTML_and_CSS b/HTML_and_CSS[m
+[1mindex 811a7c1..a82e677 160000[m
+[1m--- a/HTML_and_CSS[m
+[1m+++ b/HTML_and_CSS[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit 811a7c1b8c9e5b0cf67b8e7cf94d3f68dc967b6e[m
+[32m+[m[32mSubproject commit a82e6773efba8aac25c77436754940d84f79cb23[m
+[1mdiff --git a/Impulso-React-Web-Developer b/Impulso-React-Web-Developer[m
+[1mnew file mode 160000[m
+[1mindex 0000000..7d28764[m
+[1m--- /dev/null[m
+[1m+++ b/Impulso-React-Web-Developer[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 7d2876485e4a0efa1b22ffef8a0aabd18d43443b[m
+[1mdiff --git a/Python_C_E_V b/Python_C_E_V[m
+[1mindex 79532d3..fe61891 160000[m
+[1m--- a/Python_C_E_V[m
+[1m+++ b/Python_C_E_V[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit 79532d3aa93ead025a0fa214d9798524dfd4312c[m
+[32m+[m[32mSubproject commit fe618918c20128db2ef5932f22f9f1516a22fb6d[m
+[1mdiff --git a/readme/Black and White Gamer (Hacks or Reviews) Gaming YouTube Video Intro.gif b/readme/Black and White Gamer (Hacks or Reviews) Gaming YouTube Video Intro.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a2a09b0[m
+Binary files /dev/null and b/readme/Black and White Gamer (Hacks or Reviews) Gaming YouTube Video Intro.gif differ
+[1mdiff --git a/readme/READme.md b/readme/READme.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e11412e[m
+[1m--- /dev/null[m
+[1m+++ b/readme/READme.md[m
+[36m@@ -0,0 +1,30 @@[m
+[32m+[m[32m<img alt="bla">[m
+[32m+[m[32m<div align="center">[m
+[32m+[m[32m<a href="https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2"> <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Fullstack!" > </a> <img src=https://github.com/codebender/slack-emojis/blob/master/emojis/dancing-penguin.gif width="35">[m
+[32m+[m[32m</div>[m
+[32m+[m
+[32m+[m[32m<h6 align="center">[m
+[32m+[m[32m:computer: Systems Analysis and Development student | Front-End Developer, improving my skills in Angular :rocket: <br>[m
+[32m+[m[32m</h6>[m
+[32m+[m
+[32m+[m[32m<div align="center">[m
+[32m+[m[32m<a href="https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2">[m
+[32m+[m[32m<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img alt="TypeScript" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> <img alt="NODEJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> </a> </div>[m
+[32m+[m[32m<br>[m
+[32m+[m[32m<div align="center">[m
+[32m+[m[32m<a href="https://www.canva.com/design/DAFB7fUgkso/PWIbmNaBnVnNZV8OgoOluQ/view?website#2">[m
+[32m+[m[32m<img width="420px" src="https://github-readme-stats.vercel.app/api?username=gabrielajc&show_icons=true&theme=midnight-purple&hide=contribs,issues">[m
+[32m+[m[41m    [m
+[32m+[m[32m<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajc&layout=compact&theme=midnight-purple&hide=html">[m
+[32m+[m[32m</a>[m
+[32m+[m[32m</div>[m
+[32m+[m
+[32m+[m[32m<div align="center">[m
+[32m+[m
+[32m+[m[32m<h6>[m
+[32m+[m[32m<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting.<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="15"> Enjoy it![m[41m [m
+[32m+[m[32m</h6>[m
+[32m+[m[41m    [m
+[32m+[m[32m[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielajc/)](https://github.com/gabrielajc/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabeclemente/)](https://www.linkedin.com/in/gabeclemente/)[m
+[32m+[m
+[32m+[m[32m</div>[m
